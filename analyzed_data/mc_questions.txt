@@ -1,0 +1,98 @@
+Subject: eeg-----420160015.csv
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: b. To visit his mom INCORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 3
+
+Subject: eeg-----42216000.csv
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-40816002.xls
+a1: c. Wolverine CORRECT
+a2: b. Singing INCORRECT
+a3: b. To visit his mom INCORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 2
+
+Subject: subject-40816003.xls
+a1: c. Wolverine CORRECT
+a2: c. Magic tricks INCORRECT
+a3: b. To visit his mom INCORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 2
+
+Subject: subject-40816010.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-40816011.xls
+a1: c. Wolverine CORRECT
+a2: b. Singing INCORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 3
+
+Subject: subject-41316013.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41316014.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41516001.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41516012.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41616001.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41616003.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41616004.xls
+a1: c. Wolverine CORRECT
+a2: a. Dancing CORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 4
+
+Subject: subject-41616012.xls
+a1: c. Wolverine CORRECT
+a2: b. Singing INCORRECT
+a3: d. To compete in the Daytona 200 CORRECT
+a4: c. Gorilla mask CORRECT
+Total correct: 3
+
